@@ -16,16 +16,15 @@ Criamos o **Bovinu'S Brain**, um dashboard full-stack que conecta a operação e
 
 ## 🖼️ Capturas de Tela (Máximo 5)
 1. **Dashboard Principal:** Visão geral com KPIs e gráficos.
-   ![Dashboard](dashboard.png)
+   ![Dashboard](bovinus-dashboard/dashboard.png)
 2. **Mapa de Calor:** Planta real do salão com status das mesas (A, B, C).
-   ![Mapa](mapa.png)
+   ![Mapa](bovinus-dashboard/mapa.png)
 3. **Termômetro de Desperdício:** Análise de rejeição de pratos.
-   ![Desperdício](desperdicio.png)
+   ![Desperdício](bovinus-dashboard/desperdicio.png)
 4. **Tela da Cozinha (KDS):** Pedidos de reposição em tempo real.
-   ![Cozinha](cozinha.png)
+   ![Cozinha](bovinus-dashboard/cozinha.png)
 5. **Modo TV:** Painel para o salão com alertas visuais.
-   ![Modo TV](modotv.png)
-
+   ![Modo TV](bovinus-dashboard/modo-tv.png)
 ## 🎥 Vídeo de Demonstração (Até 2 minutos)
 Assista à solução em funcionamento: [Clique aqui para assistir](https://drive.google.com/file/d/1B_Yf1b72kCOUGlAtWUHs6dbhQkndNK8L/view?usp=drive_link)
 
