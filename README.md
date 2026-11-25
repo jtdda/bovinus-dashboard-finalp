@@ -24,7 +24,7 @@ Criamos o **Bovinu'S Brain**, um dashboard full-stack que conecta a operação e
 4. **Tela da Cozinha (KDS):** Pedidos de reposição em tempo real.
    ![Cozinha](bovinus-dashboard/cozinha.png)
 5. **Modo TV:** Painel para o salão com alertas visuais.
-   ![Modo TV](bovinus-dashboard/modo-tv.png)
+   ![Modo TV](bovinus-dashboard/modotv.png)
 ## 🎥 Vídeo de Demonstração (Até 2 minutos)
 Assista à solução em funcionamento: [Clique aqui para assistir](https://drive.google.com/file/d/1B_Yf1b72kCOUGlAtWUHs6dbhQkndNK8L/view?usp=drive_link)
 
